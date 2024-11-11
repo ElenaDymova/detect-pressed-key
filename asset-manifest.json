@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/detect-pressed-key/static/css/main.028cd99b.css",
+    "main.js": "/detect-pressed-key/static/js/main.b574bb5f.js",
+    "index.html": "/detect-pressed-key/index.html",
+    "main.028cd99b.css.map": "/detect-pressed-key/static/css/main.028cd99b.css.map",
+    "main.b574bb5f.js.map": "/detect-pressed-key/static/js/main.b574bb5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.028cd99b.css",
+    "static/js/main.b574bb5f.js"
+  ]
+}
